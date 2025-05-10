@@ -8,6 +8,8 @@ While my primary focus is backend development, I also work with modern frontend 
 
 This portfolio is a collection of the technologies I use, the projects I’ve contributed to, and the practices I follow to build software that works — and lasts.
 
+&nbsp;
+
 ---
 
 ## Tech Stack
@@ -34,6 +36,7 @@ This portfolio is a collection of the technologies I use, the projects I’ve co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="45" height="45"/>
 </p>
 
+&nbsp;
 
 ---
 
@@ -50,4 +53,4 @@ This portfolio is a collection of the technologies I use, the projects I’ve co
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmedikram398/)
 - 📧 ikramahmed398@gmail.com
 
----
+&nbsp;
