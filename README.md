@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Ahmed Ikram
+# Ahmed Ikram
 
-**Backend Developer | Laravel • .NET Core | VueJS • ReactJS**
+**Backend Developer**
 
-Welcome to my GitHub portfolio! I'm a passionate backend developer with solid experience building scalable, secure, and performant APIs and applications using Laravel and .NET. While backend development is my core strength, I also work with modern frontend frameworks like Vue.js and React.js to deliver full-stack solutions when needed.
+I’m a backend-focused software developer with deep experience in building scalable, secure, and maintainable systems. My core strengths are in Laravel and .NET Core, where I’ve developed APIs, services, and backend components for a range of applications — from business platforms to custom enterprise tools.
+
+While my primary focus is backend development, I also work with modern frontend frameworks like Vue.js and React.js to deliver complete full-stack solutions when required. I’m driven by clean architecture, performance, and code that stands the test of time.
+
+This portfolio is a collection of the technologies I use, the projects I’ve contributed to, and the practices I follow to build software that works — and lasts.
 
 ---
 
