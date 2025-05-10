@@ -45,6 +45,12 @@ This portfolio is a collection of the technologies I use, the projects I’ve co
 
 ---
 
+## 📊 GitHub Stats
+
+[![Ahmed Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-cmyk&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmedikram398/)
