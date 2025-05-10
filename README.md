@@ -58,7 +58,7 @@ This portfolio is a collection of the technologies I use, the projects I’ve co
 
 ## Stats
 
-[![Ahmed Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-cmyk&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahmed Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-cmyk&show_icons=true&theme=algolia&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-cmyk&size_weight=0.5&count_weight=0.5&theme=algolia&layout=compact)
 
 &nbsp;
