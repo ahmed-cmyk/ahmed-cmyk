@@ -10,7 +10,7 @@ This portfolio is a collection of the technologies I use, the projects I’ve co
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 <p align="left">
@@ -21,20 +21,20 @@ This portfolio is a collection of the technologies I use, the projects I’ve co
 </p>
 
 
-### 💻 Backend Frameworks
+### Backend Frameworks
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
 </p>
 
-### 🌐 Frontend Frameworks
+### Frontend Frameworks
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
 </p>
 
-### 🧰 Tools & DevOps
+### Tools & DevOps
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
@@ -45,13 +45,13 @@ This portfolio is a collection of the technologies I use, the projects I’ve co
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 [![Ahmed Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-cmyk&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmedikram398/)
 - 📧 ikramahmed398@gmail.com
